@@ -47,14 +47,9 @@ cd mon-next-app
 2. Installez les dépendances :
 
 ```bash
-npm install
+npm install --legacy-peer-deps
 ```
 
-ou
-
-```bash
-yarn install
-```
 
 ## Développement
 
@@ -64,11 +59,6 @@ Pour démarrer le serveur de développement :
 npm run dev
 ```
 
-ou
-
-```bash
-yarn dev
-```
 
 Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur pour voir le résultat.
 
