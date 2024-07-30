@@ -1,4 +1,4 @@
-# Mon Portefeuille Next.js
+x# Mon Portefeuille Next.js
 
 ## Description
 
@@ -7,7 +7,8 @@ Ce projet est un portefeuille personnel développé avec Next.js. Il met en avan
 ## Captures d'écran
 
 ### Page d'accueil
-![Page d'accueil](C:/Users/louni/OneDrive/Bureau/ok/acceuil.png)
+[acceuil](https://github.com/user-attachments/assets/99af5374-17fb-4e2e-9616-f02e2549f6c5)
+
 
 ### Page des compétences
 ![Page des compétences](C:/Users/louni/OneDrive/Bureau/ok/skills.png)
