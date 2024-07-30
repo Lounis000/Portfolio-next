@@ -11,13 +11,23 @@ Ce projet est un portefeuille personnel développé avec Next.js. Il met en avan
 
 
 ### Page des compétences
-![Page des compétences](C:/Users/louni/OneDrive/Bureau/ok/skills.png)
+
+![skills](https://github.com/user-attachments/assets/d25d1d4e-070a-499f-906f-e56d1fd7bada)
 
 ### Page des projets
-![Page des projets](C:/Users/louni/OneDrive/Bureau/ok/projets.png)
+
+![projets](https://github.com/user-attachments/assets/2fdbfcdd-7ab7-4198-b1f1-faeb2cb17409)
 
 ### Page des feedbacks
-![Page des feedbacks](C:/Users/louni/OneDrive/Bureau/ok/feedbacks.png)
+![feedbacks](https://github.com/user-attachments/assets/dc5e2d8a-b3ea-4a47-8daa-6140edb37a4b)
+
+### Page de contact 
+![image](https://github.com/user-attachments/assets/4fb825a3-7497-4344-ae63-157a9a9753d4)
+
+### Page de connexion 
+![image](https://github.com/user-attachments/assets/56b5a3f9-cf79-4e28-952b-40343b5ff0e4)
+
+
 ## Prérequis
 
 Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
